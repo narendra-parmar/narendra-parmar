@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narendra Parmar</h1>
 <h3 align="center">📊 Data Analyst | Turning Raw Data into Business Insights</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamimran613&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+Data+into+Decisions;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 </p>
